@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tips-mahjong.github.io/terbang/sitemap.xml
